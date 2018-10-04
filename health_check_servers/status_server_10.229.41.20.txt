@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+89.40%		7%		0.43%		naira.stn.intra		3.8.13-55.1.2.el7uek.x86_64

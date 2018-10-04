@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+1.74%		5%		0.00%		xelim		4.4.0-62-generic

@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+6.92%		7%		2.76%		Birr		3.8.13-118.2.4.el7uek.x86_64

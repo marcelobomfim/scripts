@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+16.91%		2%		0.24%		espadim		3.10.0-693.2.2.el7.x86_64

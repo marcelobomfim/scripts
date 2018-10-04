@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+38.60%		5%		3.00%		cuba		4.4.0-93-generic

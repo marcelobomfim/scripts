@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+4.10%		4%		0.00%		guernsey		4.4.0-62-generic

@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+73.63%		20%		0.06%		bulgaria		4.1.12-61.1.16.el6uek.x86_64

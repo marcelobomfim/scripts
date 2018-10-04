@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+14.19%		4%		0.00%		zloty		4.4.0-62-generic

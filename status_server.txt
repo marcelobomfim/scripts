@@ -1,0 +1,2 @@
+Memory		Disk	        CPU	        HOSTNAME	        KERNEL
+51.54%		21%		0.00%		zbx_teste		3.10.0-862.11.6.el7.x86_64

@@ -1,1 +1,1 @@
-# scripts
+# scripts para automação de tarefas
